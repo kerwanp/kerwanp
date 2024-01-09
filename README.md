@@ -1,16 +1,44 @@
-### Hi there 👋
+<div align="center">
+<br/>
 
-<!--
-**kerwanp/kerwanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello you! I'm Martin Paucot
 
-Here are some ideas to get you started:
+### A software engineer passionate by everything he does not know yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+</div>
+
+<div align="center">
+
+</div>
+
+## Favorite Tech
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./images/technologies/rust.svg" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="./images/technologies/typescript.svg" width="48" height="48" alt="Typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+        <img src="./images/technologies/php.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <img src="./img/docker-original.svg" width="47" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="./images/technologies/react.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+</table>
